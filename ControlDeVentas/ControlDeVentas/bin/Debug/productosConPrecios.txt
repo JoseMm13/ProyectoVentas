@@ -1,0 +1,4 @@
+Teclado - 20,50
+Impresora - 150,00
+Monitor - 200,00
+Bocinas - 80,00

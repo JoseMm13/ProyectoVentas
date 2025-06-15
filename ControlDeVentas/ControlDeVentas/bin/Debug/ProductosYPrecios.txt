@@ -1,0 +1,4 @@
+Teclado - 150
+Impresora - 420
+Monitor - 400
+Auriculares - 80

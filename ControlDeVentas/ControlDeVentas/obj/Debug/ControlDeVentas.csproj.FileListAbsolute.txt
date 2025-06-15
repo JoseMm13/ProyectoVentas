@@ -1,0 +1,10 @@
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\bin\Debug\ControlDeVentas.exe.config
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\bin\Debug\ControlDeVentas.exe
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\bin\Debug\ControlDeVentas.pdb
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.AssemblyReference.cache
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.frmVentas.resources
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.Properties.Resources.resources
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.GenerateResource.cache
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.CoreCompileInputs.cache
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.exe
+C:\Users\jagm1\OneDrive\Escritorio\ControlVentas\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.pdb
